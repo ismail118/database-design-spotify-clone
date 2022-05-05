@@ -1,0 +1,18 @@
+1.Tentukan Entity / Table
+Pakai Aplikasi jamboard.google.com
+ex url: https://jamboard.google.com/d/1RufZMxAsFU_rbm7eUuAH9Yt-c2CxDIlmh35h_8THFd0/viewer?f=0
+Catat Entity yang mungkin saja di perlukan meskipun nanti mungkin tidak semua di butuhkan ( lihat dari aplikasi yg sudah ada untuk contoh )
+
+
+2.Membuat Diagram Entity
+Pakai Aplikasi plantuml.com ( sebuah plugin bisa di install di semua jetbrains idea )
+ex url: https://plantuml.com/ie-diagram
+dir project: D:\DATABASE DESIGN\Database Design Spotify Clone
+disini saya install plugin di intellij idea
+
+3.Menentukan Attribute untuk Artist
+caranya lihat di halaman Artist di apk
+
+4.Menentukan Attribute untuk Album
+
+5.Menentukan Attribute untuk Song
